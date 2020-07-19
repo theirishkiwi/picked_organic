@@ -1,0 +1,6 @@
+#[submodule "themes/picked_organic"]
+#	path = themes/picked_organic
+#	url = git@github.com:netlify-templates/one-click-hugo-cms.git
+[submodule "site/themes/picked_organic"]
+	path = site/themes/picked_organic
+	url = git@github.com:netlify-templates/one-click-hugo-cms.git
