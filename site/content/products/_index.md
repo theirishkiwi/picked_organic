@@ -1,11 +1,11 @@
 ---
-title: Our Coffee
+title: Our veg
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Our veg
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
+  Picked Organic is the ultimate spot for food lovers who care about their
+  food’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
 intro:
