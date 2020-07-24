@@ -2,17 +2,15 @@
 title: Our veg
 type: products
 image: /img/products-jumbotron.jpg
-heading: Our veg
-description: >-
-  Picked Organic is the ultimate spot for food lovers who care about their
-  food’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
 intro:
-  blurbs:
+  heading: Some of our products
+  description: >
+    Picked is the ultimate spot for food lovers who care about where their food comes from
+blurbs:
+    
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
+        We sell blue and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
@@ -37,16 +35,11 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  
 main:
-  heading: Great coffee with no compromises
+  heading: Great food with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
+    We hold our farming to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.

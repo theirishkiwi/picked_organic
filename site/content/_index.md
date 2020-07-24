@@ -1,10 +1,10 @@
 ---
-title: "Great veg with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Picked Market Garden"
+subtitle: Support sustainable farming while enjoying fresh healthy
 image: /img/home-background.jpg
 blurb:
     heading: Why Picked?
-    text: "Picked is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    text: "Picked is the food store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
     heading: "Our veg"
     text: "Picked is the ultimate spot for food lovers who want to learn about their food’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
